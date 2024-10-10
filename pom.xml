@@ -10,7 +10,7 @@
     </parent>
     <groupId>sarik.dev</groupId>
     <artifactId>file-upload-download</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>file-upload-download</name>
     <description>file-upload-download</description>
     <url/>
